@@ -1,2 +1,3 @@
 customtkinter~=5.0.4
 passlib~=1.7.4
+hibpwned
