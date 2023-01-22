@@ -40,4 +40,4 @@ def generate_password(lengthpassword: int):
     print(f"Your password is: {password}")
 
 
-generate_password(16)
+generate_password(14)
